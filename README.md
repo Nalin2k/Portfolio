@@ -1,2 +1,2 @@
 # Portfolio
-This repo contains my portfolio 
+This repo contains my portfolio published.
